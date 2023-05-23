@@ -35,6 +35,7 @@
       "@/utils/*": ["./src/utils/*"],
       "@/models/*": ["./src/models/*"]
     }
+
   },
   "exclude": [
     "node_modules",
